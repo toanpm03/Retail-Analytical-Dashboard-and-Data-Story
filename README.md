@@ -1,0 +1,1 @@
+# Analytical-Dashboard-and-Data-Story-of-QlikView-Dataset
