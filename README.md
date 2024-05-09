@@ -1,4 +1,4 @@
-# Context
+# Background
 
 QlikView is the dataset used in the QlikView application, a software used to visualize and analyze data. This data set is organized as tables and linked together through common fields (key fields) to form a relational data structure.
 
