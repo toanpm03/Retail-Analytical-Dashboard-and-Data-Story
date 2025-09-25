@@ -13,3 +13,4 @@ QlikView dataset includes sample data such as Sales, Inventory, Human Resources,
 All datasets in QlikView are designed to allow users to perform complex data queries, generate reports, charts, and visual data models to help users better understand data. data and make more accurate business decisions.
 
 ## Model
+<img width="294" height="301" alt="data_model" src="https://github.com/user-attachments/assets/12593784-1b60-447f-8d53-c2e7c556dc8a" />
