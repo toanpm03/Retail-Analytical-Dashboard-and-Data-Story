@@ -1,7 +1,7 @@
 # Sales analysis (Domain: Retail)
 - Author: Toan Pham Minh
   
-- Project Type: Retail Analytics
+- Project Type: Retail Analytics/ Data Visualization
 
 - Tech Stack: Power BI, Python
 ## Background
